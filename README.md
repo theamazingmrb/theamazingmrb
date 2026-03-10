@@ -22,7 +22,7 @@ Beyond coding, I'm passionate about **teaching** — I've trained hundreds of de
 
 ```javascript
 const billie = {
-  location: "NYC-based, remote-friendly",
+  location: "LA-based, remote-friendly",
   currentlyBuilding: ["Motion", "AI-powered dev tools"],
   teaches: "Full Stack @ General Assembly → 100+ career changers",
   openTo: ["Full-time", "Contract", "Consulting"],
