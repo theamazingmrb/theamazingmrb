@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hey, I'm Billie 👋
+# Hey, I'm Billie (BJ) 👋
 
 ### Full Stack Developer • Mobile Engineer • Educator
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-billieheidelberg.com-blue?style=for-the-badge&logo=vercel)](https://billieheidelberg.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/theamazingmrb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bheidelberg)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:billie@houseofheidelberg.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=7%2B+Years+of+Development+Experience;React+%7C+TypeScript+%7C+Node.js+Expert;Mobile+%26+Web+Full+Stack+Engineer;Building+Products+That+Matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=7%2B+Years+of+Development+Experience;React+%7C+TypeScript+%7C+Node.js+Expert;Mobile+%26+Web+Full+Stack+Engineer;100%2B+Students+Launched+Into+Tech" alt="Typing SVG" />
 
 </div>
 
@@ -22,12 +22,24 @@ Beyond coding, I'm passionate about **teaching** — I've trained hundreds of de
 
 ```javascript
 const billie = {
-  location: "Available for Remote & Hybrid",
-  focus: ["Full Stack Development", "Mobile Engineering", "Technical Education"],
-  currentlyBuilding: "AI-powered applications & privacy-first solutions",
-  funFact: "I've helped 100+ students land their first dev jobs"
+  location: "NYC-based, remote-friendly",
+  currentlyBuilding: ["Motion", "AI-powered dev tools"],
+  teaches: "Full Stack @ General Assembly → 100+ career changers",
+  openTo: ["Full-time", "Contract", "Consulting"],
+  askMeAbout: ["React Native", "TypeScript", "Building in public"]
 };
 ```
+
+---
+
+## 🎓 Teaching & Mentorship
+
+As a **Software Engineering Instructor at General Assembly**, I've:
+
+- 📚 Trained **100+ students** in full-stack web development
+- 🎯 Developed curriculum for **JavaScript, React, Python, and Django**
+- 💼 Helped graduates land roles at top tech companies
+- 🌟 Created the **[Interview Prep Toolkit](https://github.com/theamazingmrb/interview-prep-toolkit)** — 300+ questions across 15 topics
 
 ---
 
@@ -53,14 +65,16 @@ Hair product discovery platform with community features, emoji reactions, and ad
 <td width="50%">
 
 ### 📊 Smart Trader
-**Next.js 15 • Supabase • OpenAI**
+**Next.js 16 • React 19 • Supabase • TypeScript**
 
-AI-powered trading journal with analytics, performance grading, and real-time insights.
+Rebuilt trading journal with multi-account tracking, advanced analytics, and a built-in risk calculator.
 
-- GPT-4 integration for trade analysis
-- Real-time P&L tracking dashboard
-- TradingView chart integration
-- PostgreSQL with Row-Level Security
+[![GitHub](https://img.shields.io/badge/Repo-Private-gray?logo=github)](https://github.com/theamazingmrb)
+
+- Multi-account P&L dashboard with calendar heatmap
+- Trade setups library & performance breakdown
+- Built-in risk calculator
+- Supabase auth with Row-Level Security
 
 </td>
 </tr>
@@ -102,9 +116,8 @@ Social discovery platform with 2,000+ users, identity verification, and real-tim
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **TOLO** | Content discovery platform for underground artists | React Native, Supabase, Segment |
-| **AMIR BLAQ** | Luxury fashion e-commerce platform | Next.js, Django, PostgreSQL, AWS |
 | **Interview Prep Toolkit** | 300+ interview questions & coding challenges | Open Source Educational Resource |
-| **Motion Scheduler** | Task scheduling app with drag-and-drop | Next.js, Prisma, Tailwind |
+| **Motion** | Task & schedule management with an overhauled UI | Next.js, Prisma, Tailwind |
 
 </details>
 
@@ -144,6 +157,22 @@ Social discovery platform with 2,000+ users, identity verification, and real-tim
 
 ---
 
+## 🤝 Let's Connect
+
+I'm always open to new opportunities, collaborations, or just chatting about tech.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366F1?style=for-the-badge)](https://billieheidelberg.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bheidelberg)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/theamazingmrb)
+
+**💼 Open to full-time roles, contract work, and consulting opportunities**
+
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -153,33 +182,6 @@ Social discovery platform with 2,000+ users, identity verification, and real-tim
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theamazingmrb&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## 🎓 Teaching & Mentorship
-
-As a **Software Engineering Instructor at General Assembly**, I've:
-
-- 📚 Trained **100+ students** in full-stack web development
-- 🎯 Developed curriculum for **JavaScript, React, Python, and Django**
-- 💼 Helped graduates land roles at top tech companies
-- 🌟 Created the **[Interview Prep Toolkit](https://github.com/theamazingmrb/interview-prep-toolkit)** — 300+ questions across 15 topics
-
----
-
-## 🤝 Let's Connect
-
-I'm always open to discussing new opportunities, collaborations, or just chatting about tech!
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366F1?style=for-the-badge)](https://billieheidelberg.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/theamazingmrb)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/theamazingmrb)
-
-**💼 Open to full-time roles, contract work, and consulting opportunities**
-
 </div>
 
 ---
