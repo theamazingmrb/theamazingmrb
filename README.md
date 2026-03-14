@@ -81,6 +81,22 @@ Rebuilt trading journal with multi-account tracking, advanced analytics, and a b
 <tr>
 <td width="50%">
 
+### 🎯 Pulse
+**Next.js 16 • TypeScript • Supabase • Spotify API**
+
+Personal productivity OS — daily check-ins, structured reflections, priority tasks, and journaling with Spotify integration.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-6366F1?logo=vercel)](https://vibe-with-pulse.vercel.app)
+[![GitHub](https://img.shields.io/badge/Repo-Public-181717?logo=github)](https://github.com/theamazingmrb/pulse)
+
+- Time-aware check-ins (morning / midday / evening)
+- Daily, weekly & monthly reflection streaks
+- WarMap year planning linked to tasks
+- Spotify OAuth + in-app Web Playback SDK
+
+</td>
+<td width="50%">
+
 ### 👶 Baby Tracker API
 **Django • PostgreSQL • Docker**
 
@@ -94,6 +110,8 @@ Privacy-first baby tracking solution with AI insights. Open source & self-hostab
 - Comprehensive test coverage
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 💜 Simmr
@@ -105,24 +123,6 @@ Social discovery platform with 2,000+ users, identity verification, and real-tim
 - Real-time event system
 - Secure messaging infrastructure
 - Identity verification flow
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🎯 Pulse
-**Next.js 16 • TypeScript • Supabase • Spotify API**
-
-Personal productivity OS — daily check-ins, structured reflections, priority tasks, and journaling with Spotify integration.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-6366F1?logo=vercel)](https://vibe-with-pulse.vercel.app)
-[![GitHub](https://img.shields.io/badge/Repo-Public-181717?logo=github)](https://github.com/theamazingmrb/pulse)
-
-- Time-aware check-ins (morning / midday / evening)
-- Daily, weekly & monthly reflection streaks
-- WarMap year planning linked to tasks
-- Spotify OAuth + in-app Web Playback SDK
 
 </td>
 <td width="50%">
