@@ -64,7 +64,7 @@ Hair product discovery platform with community features, emoji reactions, and ad
 </td>
 <td width="50%">
 
-### 📊 Smart Trader
+### 📊 Daily Wick
 **Next.js 16 • React 19 • Supabase • TypeScript**
 
 Rebuilt trading journal with multi-account tracking, advanced analytics, and a built-in risk calculator.
