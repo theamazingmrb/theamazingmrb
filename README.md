@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Billie (BJ) 👋
+# Billie Heidelberg (BJ)
 
 ### Full Stack Developer • Mobile Engineer • Educator
 
@@ -8,72 +8,69 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bheidelberg)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail)](mailto:billie@houseofheidelberg.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=7%2B+Years+of+Development+Experience;React+%7C+TypeScript+%7C+Node.js+Expert;Mobile+%26+Web+Full+Stack+Engineer;100%2B+Students+Launched+Into+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=React+%7C+TypeScript+%7C+Node.js;500%2B+Traders+Served;2%2C000%2B+Users+On+Simmr;50%2B+Institutions+%242B%2FDay" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a **Full Stack Developer** with **7+ years of experience** building scalable web and mobile applications. I specialize in **React**, **TypeScript**, and **Node.js**, with deep expertise in **React Native** for cross-platform mobile development.
-
-Beyond coding, I'm passionate about **teaching** — I've trained hundreds of developers as a **Software Engineering Instructor** at General Assembly, helping bootcamp graduates launch successful careers in tech.
+Full stack developer with 8+ years building production web and mobile apps. Led technical execution as CTO at TOLO (zero to App Store). Built systems processing $2B/day at InvestCloud. Currently running contract Full Stack and Senior Engineer engagements while shipping side projects.
 
 ```javascript
-const billie = {
+const bj = {
   location: "LA-based, remote-friendly",
-  currentlyBuilding: ["Motion", "AI-powered dev tools"],
-  teaches: "Full Stack @ General Assembly → 100+ career changers",
-  openTo: ["Full-time", "Contract", "Consulting"],
-  askMeAbout: ["React Native", "TypeScript", "Building in public"]
+  building: ["Daily Wick", "Baby Tracker API"],
+  teaches: "General Assembly SEI — 150+ engineers launched",
+  focusedOn: "Contract Full Stack / Senior Engineer roles",
+  askMeAbout: ["React Native", "TypeScript", "0→1 products"]
 };
 ```
 
 ---
 
-## 🎓 Teaching & Mentorship
+## Teaching
 
-As a **Software Engineering Instructor at General Assembly**, I've:
+Software Engineering Instructor at General Assembly:
 
-- 📚 Trained **100+ students** in full-stack web development
-- 🎯 Developed curriculum for **JavaScript, React, Python, and Django**
-- 💼 Helped graduates land roles at top tech companies
-- 🌟 Created the **[Interview Prep Toolkit](https://github.com/theamazingmrb/interview-prep-toolkit)** — 300+ questions across 15 topics
+- Trained **150+ students** in full-stack development
+- Curriculum: JavaScript, React, Python, Django
+- Built the **[Interview Prep Toolkit](https://github.com/theamazingmrb/interview-prep-toolkit)** — 300+ questions across 15 topics
 
 ---
 
-## 💼 Featured Projects
+## Selected Projects
 
 <table>
 <tr>
 <td width="50%">
 
-### 📱 That Aisle
+### That Aisle
 **React Native • Firebase • TypeScript**
 
-Hair product discovery platform with community features, emoji reactions, and admin moderation system.
+Hair product discovery platform. Live on the App Store.
 
 [![App Store](https://img.shields.io/badge/App_Store-Live-blue?logo=apple)](https://apps.apple.com/ca/app/that-aisle/id6504048646)
 
-- 200+ commits over 6 months
-- Built advanced reporting & moderation system
-- Real-time emoji reactions with Firebase
-- Cross-platform iOS & Android
+- Built as sole developer across two phases: full rebuild to live release
+- 3,500+ product catalog with custom search
+- Real-time emoji reactions, community forum, admin moderation
+- iOS & Android via Expo Application Services
 
 </td>
 <td width="50%">
 
-### 📊 Daily Wick
-**Next.js 16 • React 19 • Supabase • TypeScript**
+### Daily Wick
+**Next.js 16 • TypeScript • Supabase • OpenAI**
 
-Rebuilt trading journal with multi-account tracking, advanced analytics, and a built-in risk calculator.
+AI-powered trading journal. 500+ active traders.
 
 [![GitHub](https://img.shields.io/badge/Repo-Private-gray?logo=github)](https://github.com/theamazingmrb)
 
 - Multi-account P&L dashboard with calendar heatmap
-- Trade setups library & performance breakdown
-- Built-in risk calculator
+- GPT-based trade analysis and risk feedback
+- Built-in economic calendar and risk calculator
 - Supabase auth with Row-Level Security
 
 </td>
@@ -81,69 +78,51 @@ Rebuilt trading journal with multi-account tracking, advanced analytics, and a b
 <tr>
 <td width="50%">
 
-### 🎯 Pulse
-**Next.js 16 • TypeScript • Supabase • Spotify API**
+### Simmr
+**React • Node.js • PostgreSQL • AWS**
 
-Personal productivity OS — daily check-ins, structured reflections, priority tasks, and journaling with Spotify integration.
+Social discovery platform.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit-6366F1?logo=vercel)](https://vibe-with-pulse.vercel.app)
-[![GitHub](https://img.shields.io/badge/Repo-Public-181717?logo=github)](https://github.com/theamazingmrb/pulse)
-
-- Time-aware check-ins (morning / midday / evening)
-- Daily, weekly & monthly reflection streaks
-- WarMap year planning linked to tasks
-- Spotify OAuth + in-app Web Playback SDK
+- 2,000+ users, 4.5★ App Store rating
+- Lambda@Edge for SEO and rich previews
+- Global image caching pipeline, -40% bandwidth costs
+- Event-driven architecture with Hasura triggers
 
 </td>
 <td width="50%">
 
-### 👶 Baby Tracker API
+### Baby Tracker API
 **Django • PostgreSQL • Docker**
 
-Privacy-first baby tracking solution with AI insights. Open source & self-hostable.
+Privacy-first baby tracking. Open source, self-hostable.
 
 [![GitHub](https://img.shields.io/badge/Open_Source-MIT-green?logo=github)](https://github.com/theamazingmrb/baby-tracker-api)
 
-- Complete REST API with JWT auth
-- AI-powered pattern analysis
-- Docker deployment ready
-- Comprehensive test coverage
+- REST API with JWT auth and multi-tenant isolation
+- AI-powered pattern analysis for feeding and sleep
+- Dockerized for AWS EC2 or local deploy
+- 90%+ test coverage
 
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💜 Simmr
-**React • Node.js • PostgreSQL**
-
-Social discovery platform with 2,000+ users, identity verification, and real-time messaging.
-
-- 4.5★ App Store rating
-- Real-time event system
-- Secure messaging infrastructure
-- Identity verification flow
-
-</td>
-<td width="50%">
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>🔍 View More Projects</b></summary>
+<summary><b>More Projects</b></summary>
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| **TOLO** | Content discovery platform for underground artists | React Native, Supabase, Segment |
-| **Interview Prep Toolkit** | 300+ interview questions & coding challenges | Open Source Educational Resource |
-| **Motion** | Task & schedule management with an overhauled UI | Next.js, Prisma, Tailwind |
+| Project | What it is | Stack |
+|---------|-----------|-------|
+| **TOLO** | Startup — content discovery for underground artists. Zero to App Store as CTO. | React Native, Supabase, Segment |
+| **AMIR BLAQ** | Luxury fashion e-commerce with Django admin portal | Next.js, Django, PostgreSQL, AWS S3 |
+| **Love & Service 1st** | Nonprofit landing page | Next.js, Tailwind CSS |
+| **Motion** | Task & schedule management with overhauled UI | Next.js, Prisma, Tailwind |
+| **Interview Prep Toolkit** | Open source educational resource | 300+ questions across 15 topics |
 
 </details>
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -177,23 +156,21 @@ Social discovery platform with 2,000+ users, identity verification, and real-tim
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to new opportunities, collaborations, or just chatting about tech.
+## Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366F1?style=for-the-badge)](https://billieheidelberg.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bheidelberg)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github)](https://github.com/theamazingmrb)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bheidelberg)
 
-**💼 Open to full-time roles, contract work, and consulting opportunities**
+Currently open to contract Full Stack and Senior Engineer roles.
+If you are building something interesting, let us talk.
 
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=theamazingmrb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
@@ -208,7 +185,4 @@ I'm always open to new opportunities, collaborations, or just chatting about tec
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=theamazingmrb&color=6366F1&style=flat-square&label=Profile+Views" alt="Profile Views" />
-
-*"Building products that matter, one commit at a time."*
-
 </div>
