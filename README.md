@@ -21,7 +21,7 @@ Full stack developer with 8+ years building production web and mobile apps. Led 
 ```javascript
 const bj = {
   location: "LA-based, remote-friendly",
-  building: ["Daily Wick", "Baby Tracker API"],
+  building: ["Daily Wick", "Priority Compass", "Baby Tracker API"],
   teaches: "General Assembly SEI — 150+ engineers launched",
   focusedOn: "Contract Full Stack / Senior Engineer roles",
   askMeAbout: ["React Native", "TypeScript", "0→1 products"]
@@ -78,15 +78,18 @@ AI-powered trading journal. 500+ active traders.
 <tr>
 <td width="50%">
 
-### Simmr
-**React • Node.js • PostgreSQL • AWS**
+### Priority Compass
+**Next.js 16 • TypeScript • Supabase**
 
-Social discovery platform.
+Personal productivity OS built around a daily intention → focus → reflection loop.
 
-- 2,000+ users, 4.5★ App Store rating
-- Lambda@Edge for SEO and rich previews
-- Global image caching pipeline, -40% bandwidth costs
-- Event-driven architecture with Hasura triggers
+[![Live](https://img.shields.io/badge/Live-Vercel-green?logo=vercel)](https://prioritycompass.vercel.app)
+[![GitHub](https://img.shields.io/badge/Repo-Open_Source-gray?logo=github)](https://github.com/theamazingmrb/priority-compass)
+
+- Priority-based task routing (Hot/Warm/Cool/Cold) with energy-aware smart scheduling
+- Google Calendar two-way sync with busy-block awareness
+- Focus Timer with analytics, streaks, and year-level goal planning (WarMap)
+- PWA with offline support and web push notifications
 
 </td>
 <td width="50%">
@@ -113,6 +116,7 @@ Privacy-first baby tracking. Open source, self-hostable.
 | Project | What it is | Stack |
 |---------|-----------|-------|
 | **TOLO** | Startup — content discovery for underground artists. Zero to App Store as CTO. | React Native, Supabase, Segment |
+| **Simmr** | Social discovery platform. 2,000+ users, 4.5★ App Store rating. | React, Node.js, PostgreSQL, AWS |
 | **AMIR BLAQ** | Luxury fashion e-commerce with Django admin portal | Next.js, Django, PostgreSQL, AWS S3 |
 | **Love & Service 1st** | Nonprofit landing page | Next.js, Tailwind CSS |
 | **Motion** | Task & schedule management with overhauled UI | Next.js, Prisma, Tailwind |
