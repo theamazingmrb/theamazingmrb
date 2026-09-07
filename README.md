@@ -16,14 +16,14 @@
 
 ## About
 
-Full stack developer with 8+ years building production web and mobile apps. Led technical execution as CTO at TOLO (zero to App Store). Built systems processing $2B/day at InvestCloud. Currently running contract Full Stack and Senior Engineer engagements while shipping side projects.
+Full stack developer with 8+ years building production web and mobile apps. Led technical execution as CTO at TOLO (zero to App Store). Built systems processing $2B/day at InvestCloud. Founder of Daily Wick, a trading-journal SaaS with a retrieval-augmented AI coaching layer. Currently seeking a full-time senior engineering role where I own architecture decisions and shape technical direction.
 
 ```javascript
 const bj = {
   location: "LA-based, remote-friendly",
   building: ["Daily Wick", "Priority Compass", "Baby Tracker API"],
   teaches: "General Assembly SEI — 150+ engineers launched",
-  focusedOn: "Contract Full Stack / Senior Engineer roles",
+  focusedOn: "Full-time Senior Full Stack Engineer roles",
   askMeAbout: ["React Native", "TypeScript", "0→1 products"]
 };
 ```
@@ -167,7 +167,7 @@ Privacy-first baby tracking. Open source, self-hostable.
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Site-6366F1?style=for-the-badge)](https://billieheidelberg.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/bheidelberg)
 
-Currently open to contract Full Stack and Senior Engineer roles.
+Currently seeking a full-time senior engineering role.
 If you are building something interesting, let us talk.
 
 </div>
